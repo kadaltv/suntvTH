@@ -132,11 +132,6 @@
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"GOLF CHANNEL PLUS",
-"image":"https://we-play.live/uploads/posters/golf-channel-thailand-hd2-poster.jpg",
-"url":"https://mediasv.online/stream_live/675_GOLF_HD/playlist.m3u8https://we-play.live/watching/tv/golf-channel-thailand-hd2"
-},
-{
 "name":"T Sports 7",
 "image":"https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png",
 "url":"https://youdooball.livedoomovies.com:4432/02_T_Sports_480p/chunklist.m3u8",
@@ -145,109 +140,53 @@
 },
 
 {
-"name":"NFL NETWORK ชุด2",
-"image":"https://we-play.live/uploads/posters/-poster1602704214.jpeg",
-"url":"https://www.doofootball.com/dootv/live/truenba#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"T Sports 7 ชุด2",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",
-"url":"https://www.livedoomovies.com:4431/02_T_Sports_480p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
+"name":"SKYNET Sports HD" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-hd-poster1602800348.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsporthd_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"TRUE PREMIUM FOOTBALL 1 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png",
-"url":"https://www.doofootball.com/dootv/live/epl1#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 1" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-1-poster1602800391.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport1_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"TRUE PREMIUM FOOTBALL 2 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png",
-"url":"https://www.doofootball.com/dootv/live/epl2#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 2" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-2-poster1602800427.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport2_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"TRUE PREMIUM FOOTBALL 3 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.png",
-"url":"https://www.doofootball.com/dootv/live/epl3#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 3" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-3-poster1602800460.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport3_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"BEIN SPORTS 1 สำรอง",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU",
-"url":"https://www.doofootball.com/dootv/live/bein1#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 4" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-4-poster1602800503.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport4_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"BEIN SPORTS 2 สำรอง",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU",
-"url":"https://www.doofootball.com/dootv/live/bein2#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 5" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-5-poster1602800526.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport5_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":"TRUE SPORTS 1 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",
-"url":"https://www.doofootball.com/dootv/live/truesporthd#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"TRUE SPORTS 2 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png",
-"url":"https://www.doofootball.com/dootv/live/truesporthd2#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"TRUE SPORTS 3 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png",
-"url":"https://www.doofootball.com/dootv/live/truesporthd3#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"TRUE SPORTS 5 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_original.png",
-"url":"https://www.doofootball.com/dootv/live/truesport5#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"TRUE SPORTS 7 สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
-"url":"https://www.doofootball.com/dootv/live/truesport7#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"TRUE TENNIS สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2022/01/12/29936990-7374-11ec-8066-ffb72c13e721_webp_320.png",
-"url":"https://www.doofootball.com/dootv/live/truetennis#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"GOLF CHANNEL สำรอง",
-"image":"https://cms.dmpcdn.com/livetv/2018/12/17/3182d0c8-507f-42b9-b53a-cc2b0298941c.png",
-"url":"https://www.doofootball.com/dootv/live/golfchannel#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
-},
-{
-"name":"T Sports 7 สำรอง",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHdhj8tfQ6jzaZM6WScoJRndUFVfnqmWWIg&usqp=CAU",
-"url":"https://www.doofootball.com/dootv/live/tsports#main_dootv",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"playInNatPlayer": "true"
+"name":"SKYNET Sports 6" ,
+"image":"https://we-play.live/uploads/posters/skynet-sports-6-poster1602800550.jpeg",
+"url":"https://youdooball.livedoomovies.com:4432/03_skynetsport6_480p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 }
 ]
 }
